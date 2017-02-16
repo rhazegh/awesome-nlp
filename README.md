@@ -1,16 +1,19 @@
 # awesome-nlp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of resources dedicated to Natural Language Processing
->
-> Maintainers - [Keon Kim](https://github.com/keonkim), [Martin Park](https://github.com/outpark)
+**A curated list of resources dedicated to Natural Language Processing**
+Maintainer(s): [Ramin Hazegh](https://github.com/rhazegh)
+
+
+*This list is based on [awesome-nlp](https://github.com/keon/awesome-nlp) that is maintained by [Keom Kim](https://github.com/keonkim)*
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
-Please feel free to [pull requests](https://github.com/keonkim/awesome-nlp/pulls), or email Martin Park (sp3005@nyu.edu)/Keon Kim (keon.kim@nyu.edu) to add links.
+Please feel free to [pull requests](https://github.com/rhazegh/awesome-nlp/pulls), or email Ramin Hazegh (ramin@hazegh.com) to add links.
 
 
 ## Table of Contents
 
+ - [Conferences](#conferences)
  - [Tutorials and Courses](#tutorials-and-courses)
    - [videos](#videos)
  - [Deep Learning for NLP](#deep-learning-for-nlp)
@@ -42,6 +45,10 @@ Please feel free to [pull requests](https://github.com/keonkim/awesome-nlp/pulls
  - [Blogs](#blogs)
  - [Credits](#credits)
 
+## Conferences
+  - [NLP conference calendar](http://cs.rochester.edu/~omidb/nlpcalendar/)
+  - [International Conference on Machine Learning (ICML)](https://icml.cc)
+  - [Neural Information Processing Systems (NIPS)](https://nips.cc)
 
 ## Tutorials and Courses
 
