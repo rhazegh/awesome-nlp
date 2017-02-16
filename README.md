@@ -1,12 +1,11 @@
 # awesome-nlp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **A curated list of resources dedicated to Natural Language Processing**
+
 Maintainer(s): [Ramin Hazegh](https://github.com/rhazegh)
 
 
-*This list is based on [awesome-nlp](https://github.com/keon/awesome-nlp) that is maintained by [Keom Kim](https://github.com/keonkim)*
-
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*This list is based on [awesome-nlp](https://github.com/keon/awesome-nlp) that is maintained by [Keom Kim](https://github.com/keonkim). Please read the [contribution guidelines](contributing.md) before contributing.*
 
 Please feel free to [pull requests](https://github.com/rhazegh/awesome-nlp/pulls), or email Ramin Hazegh (ramin@hazegh.com) to add links.
 
