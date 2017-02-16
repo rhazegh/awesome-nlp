@@ -5,7 +5,7 @@
 Maintainer(s): [Ramin Hazegh](https://github.com/rhazegh)
 
 
-*This list is based on [awesome-nlp](https://github.com/keon/awesome-nlp) that is maintained by [Keom Kim](https://github.com/keonkim). Please read the [contribution guidelines](contributing.md) before contributing.*
+*This list is based on [awesome-nlp](https://github.com/keon/awesome-nlp) that is maintained by [Keom Kim](https://github.com/keonkim).*
 
 Please feel free to [pull requests](https://github.com/rhazegh/awesome-nlp/pulls), or email Ramin Hazegh (ramin@hazegh.com) to add links.
 
