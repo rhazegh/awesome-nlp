@@ -101,7 +101,7 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
   * [Natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
 
 * <a id="python">**Python** - Python NLP Libraries</a>
-  * [Scikit-learn: Machine learning in Python](http://arxiv.org/pdf/1201.0490.pdf)
+  * [Scikit-learn: Machine learning in Python](http://arxiv.org/abs/1201.0490)
   * [Natural Language Toolkit (NLTK)](http://www.nltk.org/)
   * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
   * [TextBlob](http://textblob.readthedocs.org/) - Providing a consistent API for diving into common natural language processing (NLP) tasks. Stands on the giant shoulders of NLTK and Pattern, and plays nicely with both.
@@ -174,17 +174,17 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
 * [Deep Learning for Web Search and Natural Language Processing](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/wsdm2015.v3.pdf)
 * [Probabilistic topic models](https://www.cs.princeton.edu/~blei/papers/Blei2012.pdf)
 * [Natural language processing: an introduction](http://jamia.oxfordjournals.org/content/18/5/544.short)
-* [A unified architecture for natural language processing: Deep neural networks with multitask learning](http://arxiv.org/pdf/1201.0490.pdf)
-* [A Critical Review of Recurrent Neural Networksfor Sequence Learning](http://arxiv.org/pdf/1506.00019v1.pdf)
+* [A unified architecture for natural language processing: Deep neural networks with multitask learning](http://arxiv.org/abs/1201.0490)
+* [A Critical Review of Recurrent Neural Networksfor Sequence Learning](http://arxiv.org/abs/1506.00019v1)
 * [Deep parsing in Watson](http://nlp.cs.rpi.edu/course/spring14/deepparsing.pdf)
-* [Online named entity recognition method for microtexts in social networking services: A case study of twitter](http://arxiv.org/pdf/1301.2857.pdf)
+* [Online named entity recognition method for microtexts in social networking services: A case study of twitter](http://arxiv.org/abs/1301.2857)
 
 
 ### Word Vectors
 Resources about word vectors, aka word embeddings, and distributed representations for words.
 Word vectors are numeric representations of words that are often used as input to deep learning systems. This process is sometimes called pretraining.
 
-[Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781v3.pdf)
+[Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/abs/1301.3781v3)
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 [Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en) et al. 2013.
@@ -220,51 +220,51 @@ Irsoy & Cardie. 2014.  Uses Deep Recursive Neural Networks. Uses a parse tree.
 [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://aclweb.org/anthology/P/P15/P15-1150.pdf)
 Tai et al. 2015  Introduces Tree LSTM. Uses a parse tree.
 
-[Semi-supervised Sequence Learning](http://arxiv.org/pdf/1511.01432.pdf)
+[Semi-supervised Sequence Learning](http://arxiv.org/abs/1511.01432)
 Dai, Le 2015 "With pretraining, we are able to train long short term memory recurrent networks up to a few hundred
 timesteps, thereby achieving strong performance in many text classification tasks, such as IMDB, DBpedia and 20 Newsgroups."
 ### Machine Translation
-[Neural Machine Translation by jointly learning to align and translate](http://arxiv.org/pdf/1409.0473v6.pdf)
+[Neural Machine Translation by jointly learning to align and translate](http://arxiv.org/abs/1409.0473v6)
 Bahdanau, Cho 2014.  "comparable to the existing state-of-the-art phrase-based system on the task of English-to-French translation."  Implements attention mechanism.
 [English to French Demo](http://104.131.78.120/)
 
-[Sequence to Sequence Learning with Neural Networks](http://arxiv.org/pdf/1409.3215v3.pdf)
+[Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215v3)
 Sutskever, Vinyals, Le 2014.  ([nips presentation](http://research.microsoft.com/apps/video/?id=239083)). Uses LSTM RNNs to generate translations. " Our main result is that on an English to French translation task from the WMT’14 dataset, the translations produced by the LSTM achieve a BLEU score of 34.8"
 [seq2seq tutorial](http://tensorflow.org/tutorials/seq2seq/index.html) in
 
-* [Cross-lingual Pseudo-Projected Expectation Regularization for Weakly Supervised Learning](http://arxiv.org/pdf/1310.1597v1.pdf)
+* [Cross-lingual Pseudo-Projected Expectation Regularization for Weakly Supervised Learning](http://arxiv.org/abs/1310.1597v1)
 * [Generating Chinese Named Entity Data from a Parallel Corpus](http://www.mt-archive.info/IJCNLP-2011-Fu.pdf)
 * [IXA pipeline: Efficient and Ready to Use Multilingual NLP tools](http://www.lrec-conf.org/proceedings/lrec2014/pdf/775_Paper.pdf)
 
 
 ### Single Exchange Dialogs
-[A Neural Network Approach toContext-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf)
+[A Neural Network Approach toContext-Sensitive Generation of Conversational Responses](http://arxiv.org/abs/1506.06714v1)
 Sordoni 2015.  Generates responses to tweets.
 Uses [Recurrent Neural Network Language Model (RLM) architecture
 of (Mikolov et al., 2010).](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)  source code: [RNNLM Toolkit](http://www.rnnlm.org/)
 
-[Neural Responding Machine for Short-Text Conversation](http://arxiv.org/pdf/1503.02364v2.pdf)
+[Neural Responding Machine for Short-Text Conversation](http://arxiv.org/abs/1503.02364v2)
 Shang et al. 2015  Uses Neural Responding Machine.  Trained on Weibo dataset.  Achieves one round conversations with 75% appropriate responses.
 
-[A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)
+[A Neural Conversation Model](http://arxiv.org/abs/1506.05869v3)
 Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses. Uses [seq2seq framework](http://tensorflow.org/tutorials/seq2seq/index.html).  Seq2Seq was originally designed for machine transation and it "translates" a single sentence, up to around 79 words, to a single sentence response, and has no memory of previous dialog exchanges.  Used in Google [Smart Reply feature for Inbox](http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html)
 
 ### Memory and Attention Models (from [DL4NLP](https://github.com/andrewt3000/DL4NLP))
 [Reasoning, Attention and Memory RAM workshop at NIPS 2015. slides included](http://www.thespermwhale.com/jaseweston/ram/)
 
-[Memory Networks](http://arxiv.org/pdf/1410.3916v10.pdf) Weston et. al 2014, and
-[End-To-End Memory Networks](http://arxiv.org/pdf/1503.08895v4.pdf) Sukhbaatar et. al 2015.
+[Memory Networks](http://arxiv.org/abs/1410.3916v10) Weston et. al 2014, and
+[End-To-End Memory Networks](http://arxiv.org/abs/1503.08895v4) Sukhbaatar et. al 2015.
 Memory networks are implemented in [MemNN](https://github.com/facebook/MemNN).  Attempts to solve task of reason attention and memory.
-[Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/pdf/1502.05698v7.pdf)
+[Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/abs/1502.05698v7)
 Weston 2015. Classifies QA tasks like single factoid, yes/no etc. Extends memory networks.
-[Evaluating prerequisite qualities for learning end to end dialog systems](http://arxiv.org/pdf/1511.06931.pdf)
+[Evaluating prerequisite qualities for learning end to end dialog systems](http://arxiv.org/abs/1511.06931)
 Dodge et. al 2015. Tests Memory Networks on 4 tasks including reddit dialog task.
 See [Jason Weston lecture on MemNN](https://www.youtube.com/watch?v=Xumy3Yjq4zk)
 
-[Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf)
+[Neural Turing Machines](http://arxiv.org/abs/1410.5401v2)
 Graves et al. 2014.
 
-[Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/pdf/1503.01007v4.pdf)
+[Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/abs/1503.01007v4)
 Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-RNN) and [blog post](https://research.facebook.com/blog/1642778845966521/inferring-algorithmic-patterns-with-stack/)
 
 ### General Natural Language Processing
@@ -272,18 +272,18 @@ Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-
 * [LSTM over tree structures](http://arxiv.org/abs/1503.04881)
 * [Sequence to Sequence Learning](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) - word vectors for machine translation
 * [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340) - DeepMind paper
-* [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf)
+* [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/abs/1301.3781)
 * [Improving distributional similarity with lessons learned from word embeddings](https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/viewFile/570/124)
 * [Low-Dimensional Embeddings of Logic](http://www.aclweb.org/anthology/W/W14/W14-2409.pdf)
 * Tutorial on Markov Logic Networks ([based on this paper](http://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf))
-* [Markov Logic Networks for Natural Language Question Answering](http://arxiv.org/pdf/1507.03045v1.pdf)
+* [Markov Logic Networks for Natural Language Question Answering](http://arxiv.org/abs/1507.03045v1)
 * [Distant Supervision for Cancer Pathway Extraction From Text](http://research.microsoft.com/en-us/um/people/hoifung/papers/psb15.pdf)
 * [Privee: An Architecture for Automatically Analyzing Web Privacy Policies](http://www.sebastianzimmeck.de/zimmeckAndBellovin2014Privee.pdf)
 * [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 * [Template-Based Information Extraction without the Templates](http://www.usna.edu/Users/cs/nchamber/pubs/acl2011-chambers-templates.pdf)
 * [Retrofitting word vectors to semantic lexicons](http://www.cs.cmu.edu/~mfaruqui/papers/naacl15-retrofitting.pdf)
 * [Unsupervised Learning of the Morphology of a Natural Language](http://www.mitpressjournals.org/doi/pdfplus/10.1162/089120101750300490)
-* [Natural Language Processing (Almost) from Scratch](http://arxiv.org/pdf/1103.0398.pdf)
+* [Natural Language Processing (Almost) from Scratch](http://arxiv.org/abs/1103.0398)
 * [Computational Grounded Cognition: a new alliance between grounded cognition and computational modelling](http://journal.frontiersin.org/article/10.3389/fpsyg.2012.00612/full)
 * [Learning the Structure of Biomedical Relation Extractions](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004216)
 * [Relation extraction with matrix factorization and universal schemas](http://www.anthology.aclweb.org/N/N13/N13-1008.pdf)
@@ -292,7 +292,7 @@ Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-
 * [A survey of named entity recognition and classification](http://nlp.cs.nyu.edu/sekine/papers/li07.pdf)
 * [Benchmarking the extraction and disambiguation of named entities on the semantic web](http://www.lrec-conf.org/proceedings/lrec2014/pdf/176_Paper.pdf)
 * [Knowledge base population: Successful approaches and challenges](http://www.aclweb.org/anthology/P11-1115)
-* [SpeedRead: A fast named entity recognition Pipeline](http://arxiv.org/pdf/1301.2857.pdf)
+* [SpeedRead: A fast named entity recognition Pipeline](http://arxiv.org/abs/1301.2857)
 
 ### Neural Network
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness)
